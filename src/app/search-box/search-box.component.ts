@@ -1,5 +1,5 @@
 import { Component, OnInit, EventEmitter, Output, ElementRef } from '@angular/core';
-import { SearchResult } from 'app/you-tube-search/search-result.model';
+import { SearchResult } from 'app/search-result/search-result.model';
 import { YouTubeSearchService } from 'app/you-tube-search/you-tube-search.service';
 import { Observable } from 'rxjs/Rx';
 import 'rxjs/add/observable/fromEvent';

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { SearchResult } from 'app/you-tube-search/search-result.model';
+import { SearchResult } from 'app/search-result/search-result.model';
 
 @Component({
   selector: 'app-you-tube-search',
